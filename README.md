@@ -30,5 +30,3 @@ This project serves as a foundational homepage design. It can be adapted for per
 - CSS3  
 - Git and GitHub
 
-## Live Demo
-(Add your GitHub Pages link here once deployed)
