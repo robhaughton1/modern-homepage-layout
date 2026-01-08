@@ -25,7 +25,7 @@ This project serves as a foundational homepage design. It can be adapted for per
 - Building reusable UI components
 - Applying consistent design patterns
 
-## Technologies Used
+## Tech Used
 - HTML5  
 - CSS3  
 - Git and GitHub
